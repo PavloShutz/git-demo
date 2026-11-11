@@ -7,3 +7,5 @@ another line
 and another
 
 paragraph version #1
+
+...paragraph... version #2

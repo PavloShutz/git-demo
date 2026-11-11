@@ -1,0 +1,9 @@
+# no .log files
+*.log
+
+# exclude smth from the rule
+!error.log
+
+# ignore contents of temporary directories
+/tmp
+/temp

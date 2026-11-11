@@ -7,3 +7,5 @@
 # ignore contents of temporary directories
 /tmp
 /temp
+
+some garbage !
